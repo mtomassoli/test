@@ -22,8 +22,8 @@ kpokop
 
 [wiki](https://www.wikipedia.org/)
 
-[through jsdelivr](https://cdn.jsdelivr.net/gh/mtomassoli/test/test.html)
-
-[python code](asd.py)
+[python code](https://github.com/mtomassoli/test/blob/main/asd.py)
 
 <img src="images/lexi-tree-1.svg" width="100%"/>
+
+v2
